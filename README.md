@@ -24,7 +24,7 @@ This assignment should prove that a student is able to:
 - [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] Initialize playwright and install project packages
   - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
+  - [ ] Use `npm run browser-install` to install the browser environment for testing
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
